@@ -1,4 +1,4 @@
-### Olá! Eu sou o Thiago Campos👋
+### Hi! I'm Thiago Campos👋
 
 - 🌱 I’m currently learning Javascript
 - 😄 Pronouns: ele/dele
