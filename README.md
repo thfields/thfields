@@ -1,5 +1,5 @@
 ### Hi! I'm Thiago Campos👋
-- 👽 I’m currently studying	
+- 👽 I’m studying web development
 <div>
   <a href="https://github.com/thfields">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thfields&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
