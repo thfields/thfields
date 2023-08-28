@@ -1,4 +1,4 @@
-### What's up! I'm Thiago Campos👋
+### What's up, I'm Thiago Campos👋
 - 👽 I’m studying web development
 <div>
   <a href="https://github.com/thfields">
