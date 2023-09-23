@@ -2,7 +2,7 @@
 <div align="center">
 <h3> What's up, I'm Thiago Campos👋</h3>
 <br>
-- I’m web development 👽
+- I’m software developer 👽
 </div> <br>
 <div align="center">
   <a href="https://github.com/thfields">
