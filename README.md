@@ -1,5 +1,7 @@
+
 <div align="center">
-### What's up, I'm Thiago Campos👋 <br>
+<h3> What's up, I'm Thiago Campos👋</h3>
+<br>
 - I’m web development 👽
 </div> <br>
 <div align="center">
