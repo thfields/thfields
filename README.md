@@ -11,7 +11,7 @@
 
 <div style="display: inline_block" align="center"><br>
 
-<img src="https://skillicons.dev/icons?i=php,wordpress,nodejs,js,ts,react,angular,spring,python,flutter" />
+<img src="https://skillicons.dev/icons?i=php,wordpress,nodejs,js,ts,react,angular,java,spring,python,flutter" />
 
   
 </div>
